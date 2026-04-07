@@ -13,3 +13,6 @@ Type in the Domain name or IP address from your Droplet or Domain in an Incognit
 
 # Assumptions, Limitations, AI Usage (Class Policy)
 You can look up how to CREATE a database & table and perform table inserts in the mySQL tied to the Droplet; you will likely have a different domain name, IP, and password to access the droplet - REMEMBER YOUR INFORMATION.  Know command line arguments like cat, cd, ls, vim, "insert" (i), exit, :wq & :q, mkdir, etc..  You cannot view the website in HTTPS unless you get additional features to allow for that.  The information will only be slightly modified to fit your IP, DNS, and password for "TheBeast", though the according changes to the files - based on my information - should not show in this GitHub; it should be the original files before my modifications.  All of my work was done in Windows, a different computer could mean unique challenges.  If adding or modifying using AI, as per class policy, make sure to claim how the AI was used FOR your work, as it is not your own work and one should give credit when it is due.
+
+# Linting
+[![Super-Linter](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE_NAME>/badge.svg)](https://github.com/marketplace/actions/super-linter)
