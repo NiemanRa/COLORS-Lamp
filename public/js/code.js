@@ -136,6 +136,8 @@ function addColor()
 	{
 		document.getElementById("colorAddResult").innerHTML = err.message;
 	}
+
+	return "active"
 }
 
 function searchColor()
@@ -182,3 +184,6 @@ function searchColor()
 	}
 	
 }
+
+// Jest Connector
+module.exports = addColor
