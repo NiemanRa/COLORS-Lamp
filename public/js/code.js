@@ -182,6 +182,3 @@ function searchColor()
 	}
 	
 }
-
-return "active";
-}
