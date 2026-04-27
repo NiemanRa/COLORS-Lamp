@@ -136,9 +136,6 @@ function addColor()
 	{
 		document.getElementById("colorAddResult").innerHTML = err.message;
 	}
-
-	// Added to check Jest
-	return "active";
 }
 
 function searchColor()
@@ -188,9 +185,3 @@ function searchColor()
 
 return "active";
 }
-
-// Jest TEST!
-test('addColor returns active', () => {
-  const result = addColor(); // Call with no parameters
-  expect(result).toBe('active'); // Assert expectation
-});
